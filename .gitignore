@@ -1,0 +1,8 @@
+# Secrets - never commit
+pat_token.txt
+
+# macOS junk
+.DS_Store
+
+# Vercel local folder
+.vercel
